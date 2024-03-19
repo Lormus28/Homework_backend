@@ -1,0 +1,4 @@
+User Name:Laura
+CPU:AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx  
+Free Memory:1.18
+RAM:6.95
